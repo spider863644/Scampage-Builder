@@ -5,10 +5,10 @@ import time as t
 import requests
 import update_check
 from update_check import isUpToDate, update
-if isUpToDate("scampage.py",  "https://raw.githubusercontent.com/spider863644/Scampage-Builder/blob/main/scampage.py") == False:
+if isUpToDate("scampage.py",  "https://github.com/spider863644/Scampage-Builder/blob/main/scampage.py") == False:
     print(Fore.YELLOW+ "This version is outdated, will update the tool in a minute")
     t.sleep(3)
-    update("scampage.py",  "https://raw.githubusercontent.com/spider863644/Scampage-Builder/blob/main/scampage.py")
+    update("scampage.py",  "https://github.com/spider863644/Scampage-Builder/blob/main/scampage.py")
     print(Fore.GREEN + "Updated\nRun tool again")
     exit()
 if os.path.exists("/storage/emulated/0/Scampage-Builder"):
