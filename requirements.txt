@@ -1,0 +1,3 @@
+requests
+update_check
+colorama
