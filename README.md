@@ -5,7 +5,7 @@ These tools enable cybercriminals to easily craft fake login pages that mimic le
 
 This tool is only available for `Termux` user
 
-<!--## How to install tool on termux
+## How to install tool on termux
 ### Step 1
 Go to `https://f-droid.org` and download `Termux` app
 ### Step 2
@@ -22,13 +22,14 @@ python3 scampage.py
 ```
 ## Support:
 Support us by dropping a star, sharing and folking  and also following me
--->
+
+
 ## Is Scampage-Builder released? 
-No, it's hasn't been released
+Yes, it has been released
 
 ```
-COMING SOON!!!
+OUT NOW!!! 
 ```
 
-## When will it be released
-Scampage-Builder will be released on programmers day `13th of September, 2023`
+## When was it released
+Scampage-Builder was released on programmers day `13th of September, 2023`
